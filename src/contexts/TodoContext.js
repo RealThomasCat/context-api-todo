@@ -17,7 +17,7 @@ export const TodoContext = createContext({
   // deleteTodo methods
   deleteTodo: (id) => {},
   // toggleComplete methods
-  toggleTodo: (id) => {},
+  toggleComplete: (id) => {},
   // Note: We will write the actual implementation of these methods in app.js
 });
 
